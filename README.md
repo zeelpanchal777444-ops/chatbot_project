@@ -25,3 +25,31 @@ The project repository is minimalist and lightweight:
 AI_Project_1/
 ├── chatbot.py      # Core logic engine and application code
 └── README.md       # Comprehensive system documentation
+
+💬 Sample Interaction (Live Simulation)
+
+==========================================================
+             NEXUS LIVE KNOWLEDGE ENGINE          
+   Status: ACTIVE | Features: Live Time & Date Enabled   
+   (Type 'exit' or 'quit' to terminate the session)       
+==========================================================
+
+user : hello
+Nexus : Hello! I am Nexus. What is your name? (Type: my name is [your name])
+
+user : My name is Aman
+Nexus : Nice to meet you, Aman! Ask me anything.
+
+Aman : what is the current time?
+Nexus : The current time is 05:45 PM.
+
+Aman : Tell me about python language
+Nexus : Python is a high-level programming language known for readability. It is used in AI and Web Dev.
+
+Aman : can you cook food for me?
+Nexus : I processed your question about 'can you cook food for me?', Aman. While I don't have deep details on this specific phrase, you can ask me about: time, date, day, coding, python, or ai!
+
+Aman : quit
+
+Nexus : Goodbye Aman! Keep learning and growing.
+==========================================================
